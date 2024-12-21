@@ -16,6 +16,7 @@ Descriptions of most functions can be found by viewing the lua files in a text e
 
 ## Examples
 [Skill Maker](https://www.nexusmods.com/dragonsdogma2/mods/691) - A large script that extensively uses _ScriptCore. Search for `func` (Functions), `hk` (Hotkeys) and `ui` (Imgui) tables to see how it's used
+
 [Teleportation](https://www.nexusmods.com/dragonsdogma2/mods/444) - One of many smaller scripts that utilize Hotkeys.lua
 
 ## Credits
