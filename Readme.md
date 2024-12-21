@@ -1,5 +1,7 @@
 # _ScriptCore
 
+![ScriptCore Cover](https://i.imgur.com/cdQ0stZ.jpeg)
+
 ScriptCore is a collection of 3 utilities for REFramework scripting:
 - Hotkeys.lua - A hotkey manager that allows for simple binding of hotkeys for gamepad, keyboard and mouse, with methods for checking if the keys are pressed, released, down, held for a time or double tapped
 - Functions.lua - A collection of useful functions for such things as getting components, merging System.Arrays, casting rays, cloning objects, copying fields and more
